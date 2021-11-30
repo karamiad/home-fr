@@ -1,7 +1,6 @@
-# Bienvenue sur cette nouvelle page github
-
+# Home
 # Introduction
-
+Ce site a étais concue pour representer tous les site l'adresse suivante https://karamiad.github.io/home-fr/
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karamiad/karamiad.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
