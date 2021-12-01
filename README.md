@@ -1,5 +1,4 @@
 # Home
-# Introduction
 Ce site a étais concue pour representer tous les site crée et leur projet
 Ce site est en cours de création alors si il y'a des ereurs allors essayer de nous aider a les corriger en utilisant ce [lien](https://github.com/karamiad/home-fr/edit/main/README.md)
 
